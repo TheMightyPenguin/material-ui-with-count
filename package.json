@@ -1,0 +1,27 @@
+{
+  "name": "zap-academy-react-task-list-with-count-template",
+  "version": "1.0.0",
+  "description": "Example app for this post: https://itnext.io/making-a-beautiful-todo-app-using-react-hooks-material-ui-52dacf3245f4",
+  "keywords": [],
+  "main": "src/index.js",
+  "dependencies": {
+    "@material-ui/core": "4.6.0",
+    "@material-ui/icons": "latest",
+    "react": "16.11.0",
+    "react-dom": "16.11.0",
+    "react-scripts": "3.2.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  },
+  "browserslist": [
+    ">0.2%",
+    "not dead",
+    "not ie <= 11",
+    "not op_mini all"
+  ]
+}
